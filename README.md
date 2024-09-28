@@ -24,6 +24,7 @@ import matplotlib.pyplot as plt
 from sklearn import datasets, linear_model
 from planar_utils import plot_decision_boundary, sigmoid, load_planar_dataset, load_extra_datasets
 from testCases_v2 import *
+```
 
 ### Ensure Inline Plotting for Jupyter Notebooks
 ```python
